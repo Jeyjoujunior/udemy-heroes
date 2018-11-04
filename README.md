@@ -6,4 +6,12 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-##Cambios realizados en github
+## Cambios realizados en github
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+
+Un **gran poder** requiere una gran *responsabilidad*. 
